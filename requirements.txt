@@ -75,7 +75,7 @@ tld==0.7.6
 twine==1.7.4
 vboxapi==1.0
 virtualenv==13.1.2
-Werkzeug==0.11.10
+Werkzeug==0.15.3
 whitenoise==3.0
 xattr==0.6.4
 zope.interface==4.1.1
